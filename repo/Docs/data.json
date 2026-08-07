@@ -1,0 +1,25 @@
+{
+  "app": {
+    "name": "Aura Docs",
+    "icon_url": "icon.png",
+    "description": "Gestisci i tuoi documenti sul cloud con Aura Docs.",
+    "version": "1",
+    "changelog": [
+      {
+        "version": "1",
+        "date": "2026-03-02",
+        "changes": [
+          "Aggiunto supporto tema light/dark"
+        ]
+      }
+    ],
+    "apk": {
+      "file_name": "Docs-v1.02032026.apk",
+      "size_mb": 31,
+      "min_android_version": "6.0",
+      "target_sdk": "35",
+      "signature_sha256": "fc8c7b758539390e12c3968eb04c1c796df4de6db7bae12c599d431455a50e82",
+      "package_name": "www.aurastudioitalia.it"
+    }
+  }
+}

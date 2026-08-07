@@ -1,0 +1,27 @@
+{
+  "app": {
+    "name": "Nyra",
+    "icon_url": "icon.png",
+    "description": "Nyra è un'applicazione moderna ottimizzata per dispositivi Android con interfaccia dark/light e supporto completo ai temi di sistema.",
+    "version": "4",
+    "changelog": [
+      {
+        "version": "4",
+        "date": "2026-08-04",
+        "changes": [
+          "Aggiunto supporto tema light/dark",
+          "UI ristrutturata",
+          "Completo trasformamento"
+        ]
+      }
+    ],
+    "apk": {
+      "file_name": "Nyra-v4-03082026.apk",
+      "size_mb": 21,
+      "min_android_version": "7.0",
+      "target_sdk": "36",
+      "signature_sha256": "101b103deed81d2a14a8c1b2fadcf71d4ec3299506e1c65908eb3ac7a916cbe3",
+      "package_name": "com.nyra.it"
+    }
+  }
+}
