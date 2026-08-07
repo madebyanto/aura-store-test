@@ -1,0 +1,25 @@
+{
+  "app": {
+    "name": "Aura Tasks (Beta)",
+    "icon_url": "icon.png",
+    "description": "Gestisci le tue tasks o le tasks del tuo team sul cloud con Aura Tasks.",
+    "version": "1",
+    "changelog": [
+      {
+        "version": "1",
+        "date": "2026-03-14",
+        "changes": [
+          "Prima release per mobile, BETA"
+        ]
+      }
+    ],
+    "apk": {
+      "file_name": "Tasks-v1-14032026.apk",
+      "size_mb": 31,
+      "min_android_version": "6.0",
+      "target_sdk": "35",
+      "signature_sha256": "88fc9101fb1c552aca50953a19c1557095186427a6faf47c54c31cf2ddd244b7",
+      "package_name": "tasks.aura.com"
+    }
+  }
+}

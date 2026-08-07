@@ -1,0 +1,25 @@
+{
+  "app": {
+    "name": "Aura Store",
+    "icon_url": "icon.png",
+    "description": "Il client open source ufficiale per le app Aura.",
+    "version": "1",
+    "changelog": [
+      {
+        "version": "1",
+        "date": "2026-08-07",
+        "changes": [
+          "Prima release"
+        ]
+      }
+    ],
+    "apk": {
+      "file_name": "Store-v1-07082026.apk",
+      "size_mb": 31,
+      "min_android_version": "7.0",
+      "target_sdk": "36",
+      "signature_sha256": "34fe15991a1403ce78f64528a9dc6d569d3ca58ce321bf43ba115b9d2a5feb68",
+      "package_name": "com.aura.store"
+    }
+  }
+}
