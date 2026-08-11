@@ -7,18 +7,22 @@
     "changelog": [
       {
         "version": "1",
-        "date": "2026-08-07",
+        "date": "2026-08-09",
         "changes": [
-          "Prima release"
+          "Aggiunta autenticazione con username",
+          "Migliorata la visualizzazione di aggiornamenti store",
+          "Sincronizzazione dei repository salvati con account Aura",
+          "Aggiunta autenticazione con username",
+          "Corretti bug visivi"
         ]
       }
     ],
     "apk": {
-      "file_name": "Store-v1-07082026.apk",
+      "file_name": "Store-v1-09082026.apk",
       "size_mb": 31,
       "min_android_version": "7.0",
       "target_sdk": "36",
-      "signature_sha256": "34fe15991a1403ce78f64528a9dc6d569d3ca58ce321bf43ba115b9d2a5feb68",
+      "signature_sha256": "9eb5fc8a428ece811758e1be9fc9ab7f5c14c1004659fb3610827e237354bffa",
       "package_name": "com.aura.store"
     }
   }

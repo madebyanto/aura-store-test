@@ -3,10 +3,10 @@
     "name": "Aura Docs",
     "icon_url": "icon.png",
     "description": "Gestisci i tuoi documenti sul cloud con Aura Docs.",
-    "version": "1",
+    "version": "1.0.1",
     "changelog": [
       {
-        "version": "1",
+        "version": "1.0.1",
         "date": "2026-03-02",
         "changes": [
           "Aggiunto supporto tema light/dark"
