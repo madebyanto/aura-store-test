@@ -1,0 +1,25 @@
+{
+  "app": {
+    "name": "To-Doo",
+    "icon_url": "icon.png",
+    "description": "Gestisci le tue attività quotidiane con To-Doo.",
+    "version": "1.0.0",
+    "changelog": [
+      {
+        "version": "1.0.0",
+        "date": "2026-10-06",
+        "changes": [
+          "Prima release"
+        ]
+      }
+    ],
+    "apk": {
+      "file_name": "ToDoo-v1-06102026.apk",
+      "size_mb": 31,
+      "min_android_version": "6.0",
+      "target_sdk": "35",
+      "signature_sha256": "fc8c7b758539390e12c3968eb04c1c796df4de6db7bae12c599d431455a50e82",
+      "package_name": "com.auraosp.todoo"
+    }
+  }
+}
